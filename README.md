@@ -1,0 +1,1 @@
+This repo contains ImHex patterns for Atelier Resleriana 2 data files as part of some initial reverse engineering efforts. For a continuation of this effort, see [CatClawed's fork](https://github.com/CatClawed/atelier-resleriana-2-patterns).
